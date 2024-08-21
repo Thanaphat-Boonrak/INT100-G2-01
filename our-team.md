@@ -1,6 +1,6 @@
 # Introduce group members
 
-![AungPic.gif](/image/aung.jpg)
+<img src="image/aung.jpg" width="200" alt="AungPic.gif">
 
 ### Name
 🐢 Yuttapoom Haphanom 🐢
