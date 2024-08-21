@@ -16,7 +16,7 @@
 # *BuBu Toey*
 ผู้สัมภาษณ์ : Thanawit Kunthon รหัสนักศึกษา : 67130500087
 # *Introduce*
-! [ToeyToei.pic](image/IMG_3523.jpeg)
+! []
 
 ### Name
 Wongsaphat Chanwanna
