@@ -40,17 +40,17 @@
 
 ### Personal Information
 - **Name:** 😀 Thanaphat Boonruck 😀
-- **ID:** ใส่รหัสนศคับ
-- **Birthday:** text
+- **ID:** 67130500085
+- **Birthday:** 09/08/2548
 
 ### Social Media
 - **Instagram:**[ ttha_na.phat](https://www.instagram.com/ttha_na.phat/)
 
 ### Interests
 - **Hobbies:** Play Sports, Exercise
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Favorite Song:** ETA (NEWJEANS)
+- **Favorite Movie:** TITANIC
+- **Favorite Foods:** Fried rice
 
 ---
 
