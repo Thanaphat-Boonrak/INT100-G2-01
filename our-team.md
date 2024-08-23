@@ -54,22 +54,21 @@
 
 ---
 
-<img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
+<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
 
 ### Personal Information
-- **Name:** Thanawit Kunthon
-- **ID:** 67130500087
-- **Birthday:** 07/01/2006
+- **Name:** text
+- **ID:** ใส่รหัสนศคับ
+- **Birthday:** text
 
 ### Social Media
-- **Instagram:**[ toeytoei_cserpent](https://instagram.com/toeytoei_cserpent)
+- **Instagram:**[ username_ig](https://instagram.com/)
 
 ### Interests
-- **Hobbies:** เล่นเกม, ฟังเพลง, นอน
-- **Favorite Song:** New Women, สตอเบอรี่มรกต, NOBODY CARES
-- **Favorite Movie:** เคาน์เตอร์ คนล่าปีศาจ, inside out, Frozen, Black Swan
-- **Favorite Foods:** เยลลี่, กระเพรา, ของหวาน
-
+- **Hobbies:** text
+- **Favorite Song:** text
+- **Favorite Movie:** text
+- **Favorite Foods:** text
 ---
 
 <img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
