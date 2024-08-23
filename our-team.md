@@ -54,7 +54,7 @@
 
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
 - **Name:** Thanawit Kunthon
