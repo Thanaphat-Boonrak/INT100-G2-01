@@ -18,7 +18,7 @@
 
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
 ### Personal Information
 - **Name:** Wongsaphat Chanwanna
