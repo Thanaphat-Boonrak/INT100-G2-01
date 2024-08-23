@@ -57,7 +57,7 @@
 <img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
-- **Name:** Thanawit Kunthon
+- **Name:** 🦋Thanawit Kunthon🦋
 - **ID:** 67130500087
 - **Birthday:** 07/01/2006
 
