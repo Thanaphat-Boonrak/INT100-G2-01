@@ -57,7 +57,7 @@
 <img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
-- **Name:** Thanawit Kunthon
+- **Name:** 🦋Thanawit Kunthon🦋
 - **ID:** 67130500087
 - **Birthday:** 07/01/2006
 
@@ -69,7 +69,7 @@
 - **Favorite Song:** New Women, สตอเบอรี่มรกต, NOBODY CARES
 - **Favorite Movie:** เคาน์เตอร์ คนล่าปีศาจ, inside out, Frozen, Black Swan
 - **Favorite Foods:** เยลลี่, กระเพรา, ของหวาน
-
+  
 ---
 
 <img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
