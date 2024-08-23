@@ -23,16 +23,16 @@
 ### Personal Information
 - **Name:** 😀 Wongsaphat Chanwanna 😀
 - **ID:** 67130500111
-- **Birthday:** text
+- **Birthday:** 12/11/2548
 
 ### Social Media
 - **Instagram:**[ generalfuyu](https://www.instagram.com/generalfuyu)
 
 ### Interests
 - **Hobbies:** เล่นเกม 🎮, ดู Youtube 
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Favorite Song:** Odesza-A Moment Apart
+- **Favorite Movie:** Inside Out
+- **Favorite Foods:** Spicy Korean Ramen
 
 ---
 
