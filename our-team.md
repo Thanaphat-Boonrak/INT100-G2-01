@@ -18,7 +18,7 @@
 
 ---
 
-<img src="image/Fuyu.jpg" width="200" alt="Fuyu.jpg">
+<img src="image/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
 ### Personal Information
 - **Name:** Wongsaphat Chanwanna
