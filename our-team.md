@@ -21,7 +21,7 @@
 <img src="image/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
 ### Personal Information
-- **Name:** Wongsaphat Chanwanna
+- **Name:** 😀 Wongsaphat Chanwanna 😀
 - **ID:** 67130500111
 - **Birthday:** text
 
