@@ -89,7 +89,6 @@
 - **Favorite Movie:** Avengers
 - **Favorite Foods:** กะเพราหมูกรอบ
 
----
 
 <img src="image/Tang.jpg" width="200" alt="Tang.jpg">
 
