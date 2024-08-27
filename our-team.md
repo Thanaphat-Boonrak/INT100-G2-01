@@ -5,16 +5,16 @@
 ### Personal Information
 - **Name:** Jaturapat Pratumchat
 - **ID:** 67130500067
-- **Birthday:** 24/09/2548
+- **Birthday:** 11/02/2550
 
 ### Social Media
 - **Instagram:**[ demxru.dash](https://instagram.com/demxru.dash)
 
 ### Interests
 - **Hobbies:** playgame,playsport
-- **Favorite Song:** ปล่อยน้ำใสนาน้อง
-- **Favorite Movie:** iron man 2008
-- **Favorite Foods:** เฉาก๊วย, เก๊กฮวย, ก๋วยเตี๋ยวต้มยำ
+- **Favorite Song:** Perfect Night
+- **Favorite Movie:** Avengers
+- **Favorite Foods:** กะเพราหมูกรอบ
 
 
 
