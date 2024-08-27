@@ -89,9 +89,9 @@
 - **Favorite Movie:** Avengers
 - **Favorite Foods:** กะเพราหมูกรอบ
 
+---
 
 <img src="image/Tang.jpg" width="200" alt="Tang.jpg">
-
 ### Personal Information
 - **Name:** 😀 Thanaphat Boonruck 😀
 - **ID:** 67130500085
