@@ -1,5 +1,6 @@
 # Introduce Group Members
 
+
 <img src="image/aung.jpg" width="200" alt="AungPic.gif">
 
 ### Personal Information
@@ -90,22 +91,21 @@
 
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/DeawPIC.jpg" width="200" alt="DEAW">
 
 ### Personal Information
-- **Name:** text
-- **ID:** ใส่รหัสนศคับ
-- **Birthday:** text
+- **Name:** Jaturapat Pratumchat
+- **ID:** 67130500067
+- **Birthday:** 11/02/2550
 
 ### Social Media
-- **Instagram:**[ username_ig](https://instagram.com/)
+- **Instagram:**[ demxru.dash](https://instagram.com/demxru.dashx?igsh=cjR$ZWYybW85Y2t3)
 
 ### Interests
-- **Hobbies:** text
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Hobbies:** playgame,playsport
+- **Favorite Song:** Perfect Night
+- **Favorite Movie:** Avengers
+- **Favorite Foods:** กะเพราหมูกรอบ
 
----
 
 
