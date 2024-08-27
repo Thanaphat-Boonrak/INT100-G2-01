@@ -4,17 +4,17 @@
 
 ### Personal Information
 - **Name:** 🐢 Yuttapoom Haphanom 🐢
-- **ID:** ใส่รหัสนศคับ
-- **Birthday:** text
+- **ID:** 67130500109
+- **Birthday:** 24/09/2548
 
 ### Social Media
 - **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom)
 
 ### Interests
 - **Hobbies:** ดูการ์ตูน, กินขนม
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Favorite Song:** ปล่อยน้ำใสนาน้อง
+- **Favorite Movie:** iron man 2008
+- **Favorite Foods:** เฉาก๊วย, เก๊กฮวย, ก๋วยเตี๋ยวต้มยำ
 
 ---
 
@@ -72,21 +72,21 @@
   
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
-- **Name:** text
-- **ID:** ใส่รหัสนศคับ
-- **Birthday:** text
+- **Name:** Poonpipat Siri 🐻
+- **ID:** 67130500105 🪪 
+- **Birthday:** 20/01/2549 🎂 
 
 ### Social Media
-- **Instagram:**[ username_ig](https://instagram.com/)
+- **Instagram:**[ poonpipatsiri 🌐](https://instagram.com/poonpipatsiri)
 
 ### Interests
-- **Hobbies:** text
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Hobbies:** เล่นกับเพื่อน ⛹️
+- **Favorite Song:** Jeff Satur 📼 
+- **Favorite Movie:** Harry Potter 🍿 
+- **Favorite Foods:** ไก่ทอด 🍗 
 
 ---
 
