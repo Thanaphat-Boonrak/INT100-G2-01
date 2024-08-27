@@ -72,7 +72,7 @@
   
 ---
 
-<img src="image/MoKunPic.jpg" width="200" alt="Poonpipat Siri">
+<img src="image/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
 - **Name:** Poonpipat Siri 🐻
