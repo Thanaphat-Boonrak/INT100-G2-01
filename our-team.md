@@ -76,7 +76,7 @@
 <img src="image/DeawPIC.jpg" width="200" alt="DEAW">
 
 ### Personal Information
-- **Name:** Jaturapat Pratumchat
+- **Name:** 🏸Jaturapat Pratumchat🏸
 - **ID:** 67130500067
 - **Birthday:** 11/02/2550
 
