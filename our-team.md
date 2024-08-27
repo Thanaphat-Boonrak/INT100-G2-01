@@ -8,7 +8,7 @@
 - **Birthday:** 11/02/2550
 
 ### Social Media
-- **Instagram:**[ demxru.dash](https://instagram.com/demxru.dash)
+- **Instagram:**[ demxru.dash](https://instagram.com/demxru.dashx?igsh=cjR$ZWYybW85Y2t3)
 
 ### Interests
 - **Hobbies:** playgame,playsport
