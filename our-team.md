@@ -54,10 +54,10 @@
 
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
-- **Name:** Thanawit Kunthon
+- **Name:** 🦋Thanawit Kunthon🦋
 - **ID:** 67130500087
 - **Birthday:** 07/01/2006
 
@@ -69,24 +69,24 @@
 - **Favorite Song:** New Women, สตอเบอรี่มรกต, NOBODY CARES
 - **Favorite Movie:** เคาน์เตอร์ คนล่าปีศาจ, inside out, Frozen, Black Swan
 - **Favorite Foods:** เยลลี่, กระเพรา, ของหวาน
-
+  
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="image/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
-- **Name:** text
-- **ID:** ใส่รหัสนศคับ
-- **Birthday:** text
+- **Name:** Poonpipat Siri 🐻
+- **ID:** 67130500105 🪪 
+- **Birthday:** 20/01/2549 🎂 
 
 ### Social Media
-- **Instagram:**[ username_ig](https://instagram.com/)
+- **Instagram:**[ poonpipatsiri 🌐](https://instagram.com/poonpipatsiri)
 
 ### Interests
-- **Hobbies:** text
-- **Favorite Song:** text
-- **Favorite Movie:** text
-- **Favorite Foods:** text
+- **Hobbies:** เล่นกับเพื่อน ⛹️
+- **Favorite Song:** Jeff Satur 📼 
+- **Favorite Movie:** Harry Potter 🍿 
+- **Favorite Foods:** ไก่ทอด 🍗 
 
 ---
 
