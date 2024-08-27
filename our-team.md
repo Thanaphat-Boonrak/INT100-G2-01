@@ -8,7 +8,7 @@
 - **Birthday:** 24/09/2548
 
 ### Social Media
-- **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom)
+- **Instagram:**[ demxru.dash](https://instagram.com/demxru.dash)
 
 ### Interests
 - **Hobbies:** playgame,playsport
