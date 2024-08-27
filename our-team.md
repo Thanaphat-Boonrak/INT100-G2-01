@@ -1,5 +1,3 @@
-# Introduce Group Members
-
 <img src="image/Tang.jpg" width="200" alt="Tang.jpg">
 
 ### Personal Information
