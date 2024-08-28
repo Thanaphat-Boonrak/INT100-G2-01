@@ -1,6 +1,6 @@
 # Introduce Group Members
 
-<img src="image/aung.jpg" width="200" alt="AungPic.gif">
+<img src="assets/profiles/aung.jpg" width="200" alt="AungPic.gif">
 
 ### Personal Information
 - **Name:** 🐢 Yuttapoom Haphanom 🐢
@@ -18,7 +18,7 @@
 
 ---
 
-<img src="image/Fuyu.JPG" width="200" alt="Fuyu.JPG">
+<img src="assets/profiles/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
 ### Personal Information
 - **Name:** 😀 Wongsaphat Chanwanna 😀
@@ -36,7 +36,7 @@
 
 ---
 
-<img src="image/Tang.jpg" width="200" alt="Tang.jpg">
+<img src="assets/profiles/Tang.jpg" width="200" alt="Tang.jpg">
 
 ### Personal Information
 - **Name:** 😀 Thanaphat Boonruck 😀
@@ -54,7 +54,7 @@
 
 ---
 
-<img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
+<img src="assets/profiles/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
 - **Name:** 🦋Thanawit Kunthon🦋
@@ -72,7 +72,7 @@
   
 ---
 
-<img src="image/MokunPic.jpg" width="200" alt="Poonpipat Siri">
+<img src="assets/profiles/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
 - **Name:** Poonpipat Siri 🐻
@@ -90,7 +90,7 @@
 
 ---
 
-<img src="image/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
+<img src="assets/profiles/ใส่ชื่อรูปคับ.jpg" width="200" alt="ตั้งชื่อรูปคับ">
 
 ### Personal Information
 - **Name:** text
@@ -107,5 +107,3 @@
 - **Favorite Foods:** text
 
 ---
-
-
