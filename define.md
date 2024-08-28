@@ -1,2 +1,3 @@
-[ empathize ](empathize.md) > **define** > [ ideate ](ideate.md) > [ prototype ](prototype.md) > [ test ](test.md)
-<hr>
+[ empathize ](empathize.md) / **define** / [ ideate ](ideate.md) / [ prototype ](prototype.md) / [ test ](test.md)
+
+## define
