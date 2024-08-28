@@ -90,7 +90,7 @@
 
 ---
 
-<img src="assets/DeawPIC.jpg" width="200" alt="DEAW">
+<img src="assets/profiles/DeawPIC.jpg" width="200" alt="DEAW">
 
 ### Personal Information
 - **Name:** 🏸Jaturapat Pratumchat🏸
