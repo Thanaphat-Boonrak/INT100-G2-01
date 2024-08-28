@@ -1,7 +1,6 @@
 # Introduce Group Members
 
-
-<img src="image/aung.jpg" width="200" alt="AungPic.gif">
+<img src="assets/profiles/aung.jpg" width="200" alt="AungPic.gif">
 
 ### Personal Information
 - **Name:** 🐢 Yuttapoom Haphanom 🐢
@@ -19,7 +18,7 @@
 
 ---
 
-<img src="image/Fuyu.JPG" width="200" alt="Fuyu.JPG">
+<img src="assets/profiles/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
 ### Personal Information
 - **Name:** 😀 Wongsaphat Chanwanna 😀
@@ -37,7 +36,7 @@
 
 ---
 
-<img src="image/Tang.jpg" width="200" alt="Tang.jpg">
+<img src="assets/profiles/Tang.jpg" width="200" alt="Tang.jpg">
 
 ### Personal Information
 - **Name:** 😀 Thanaphat Boonruck 😀
@@ -55,7 +54,7 @@
 
 ---
 
-<img src="image/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
+<img src="assets/profiles/ToeyToei.jpg" width="200" alt="ToeyToei.jpg">
 
 ### Personal Information
 - **Name:** 🦋Thanawit Kunthon🦋
@@ -73,7 +72,7 @@
   
 ---
 
-<img src="image/MokunPic.jpg" width="200" alt="Poonpipat Siri">
+<img src="assets/profiles/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
 - **Name:** Poonpipat Siri 🐻
@@ -91,10 +90,10 @@
 
 ---
 
-<img src="image/DeawPIC.jpg" width="200" alt="DEAW">
+<img src="assets/profiles/DeawPIC.jpg" width="200" alt="DEAW">
 
 ### Personal Information
-- **Name:** Jaturapat Pratumchat
+- **Name:** 🏸Jaturapat Pratumchat🏸
 - **ID:** 67130500067
 - **Birthday:** 11/02/2550
 
@@ -107,5 +106,4 @@
 - **Favorite Movie:** Avengers
 - **Favorite Foods:** กะเพราหมูกรอบ
 
-
-
+---
