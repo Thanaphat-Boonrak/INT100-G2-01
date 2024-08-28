@@ -1,4 +1,4 @@
-[ Empathize ](empathize.md) / **Define** / [ Ideate ](ideate.md) / [ Prototype ](prototype.md) / [ Test ](test.md)
+[ empathize ](empathize.md) / **define** / [ ideate ](ideate.md) / [ prototype ](prototype.md) / [ test ](test.md)
 
 # Define
 
@@ -6,17 +6,11 @@
 <img src="assets/profiles/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800">
 #ExtremeUser
 
-----
+<img src="assets/profiles/define/27y.png" alt="Journey27y" width="800">
+#27yUser
 
+<img src="assets/profiles/define/73y.png" alt="Journey73y" width="800">
+#73yUser<br>
+
+----
 ## Point of View
-#### Choose 1 Extreme user
-- ##### We met
-> พี่หนุ่มนักว่ายน้ำกล้ามโตเจอปัญหาขณะวิ่งออกกำลังกาย
-- ##### We were surprised to
-> มีรถเข้ามาวิ่งในสถานที่ออกกำลังกาย
-- ##### We wonder if this means
-> อาจเกิดการเฉี่ยวชนคนออกกำลังกายได้
-- ##### It would be game-changing to
-> ให้เปลี่ยนไปวิ่งในสนามวิ่งแทนการวิ่งรอบตึก
-
-----
