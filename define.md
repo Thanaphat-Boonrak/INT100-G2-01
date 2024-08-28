@@ -1,11 +1,13 @@
-[ empathize ](empathize.md) / **define** / [ ideate ](ideate.md) / [ prototype ](prototype.md) / [ test ](test.md)
+[ Empathize ](empathize.md) / **Define** / [ Ideate ](ideate.md) / [ Prototype ](prototype.md) / [ Test ](test.md)
 
 # Define
 
 ## Journey Map
 <img src="assets/profiles/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800">
 #ExtremeUser
+
 ----
+
 ## Point of View
 #### Choose 1 Extreme user
 - ##### We met
@@ -16,4 +18,5 @@
 > อาจเกิดการเฉี่ยวชนคนออกกำลังกายได้
 - ##### It would be game-changing to
 > ให้เปลี่ยนไปวิ่งในสนามวิ่งแทนการวิ่งรอบตึก
+
 ----
