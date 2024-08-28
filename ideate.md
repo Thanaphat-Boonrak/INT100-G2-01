@@ -1,4 +1,4 @@
-[ empathize ](empathize.md) / [ define ](define.md) / **ideate** / [ prototype ](prototype.md) / [ test ](test.md)
+![image](https://github.com/user-attachments/assets/f6d4eac9-d167-42a8-95fc-1aec4050c048)[ empathize ](empathize.md) / [ define ](define.md) / **ideate** / [ prototype ](prototype.md) / [ test ](test.md)
 
 # ideate
 
@@ -7,5 +7,7 @@
   ![ฟันฉลาม](https://github.com/Thanaphat-Boonrak/INT100-G2-01/blob/e2e0d69380652e1bf3003b673d3427c2a3aa1211/assets/profiles/ideate/%E0%B8%9F%E0%B8%B1%E0%B8%99%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1.png)
   
 - สร้างสถานที่ ให้สำหรับคนวิ่งออกกำลังกาย และอาจจะมีเครื่องกีฬาอื่นในนั้น
+    ![Barrier](https://github.com/Thanaphat-Boonrak/INT100-G2-01/blob/e2e0d69380652e1bf3003b673d3427c2a3aa1211/assets/profiles/ideate/%E0%B8%9F%E0%B8%B1%E0%B8%99%E0%B8%89%E0%B8%A5%E0%B8%B2%E0%B8%A1.png)
+
 - ฟันฉลามขวางรถ จะถูกเปิดใช้งานต่อเมื่อมีรถยนต์เข้ามาให้กับลู่วิ่ง
 - Barrier พลาสติกแบบใส่น้ำมาขวางกั้นไม่ให้รถเข้ามาในเขตคนเดิน/วิ่งเพื่อความปลอดภัยของคนออกกำลังกาย
