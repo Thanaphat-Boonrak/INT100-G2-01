@@ -1,4 +1,4 @@
-**empathize** / [ define ](define.md) / [ ideate ](ideate.md) / [ prototype ](prototype.md) / [ test ](test.md)
+[ empathize ](empathize.md) / [ define ](define.md) / [ ideate ](ideate.md) / **prototype** / [ test ](test.md)
 # Ideate
 
 - สายรัดข้อมือ ที่จะค่อยสั่น และเปลี่ยนสีเป็นสีแดง เพื่อเตือนผู้ที่กำลังวิ่งอยู่
