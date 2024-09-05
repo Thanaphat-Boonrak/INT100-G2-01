@@ -4,16 +4,16 @@
 
 - สายรัดข้อมือ ที่จะค่อยสั่น และเปลี่ยนสีเป็นสีแดง เพื่อเตือนผู้ที่กำลังวิ่งอยู่
   
-  ![สายรัดมือ](assets\profiles\ideate\นาฬิกา.png)
+  ![สายรัดมือ](assets/profiles/ideate/นาฬิกา.png)
   
 - สร้างสถานที่ ให้สำหรับคนวิ่งออกกำลังกาย และอาจจะมีเครื่องกีฬาอื่นในนั้น
   
-    ![สนาม](assets\profiles\ideate\สนาม.png)
+    ![สนาม](assets/profiles/ideate/สนาม.png)
 
 - ฟันฉลามขวางรถ จะถูกเปิดใช้งานต่อเมื่อมีรถยนต์เข้ามาให้กับลู่วิ่ง
 
-   ![ฟันฉลาม](assets\profiles\ideate\ฟันฉลาม.png)
+   ![ฟันฉลาม](assets/profiles/ideate/ฟันฉลาม.png)
   
 - Barrier พลาสติกแบบใส่น้ำมาขวางกั้นไม่ให้รถเข้ามาในเขตคนเดิน/วิ่งเพื่อความปลอดภัยของคนออกกำลังกาย
   
-  ![Barrier](assets\profiles\ideate\Barrier.png)
+  ![Barrier](assets/profiles/ideate/Barrier.png)
