@@ -2,7 +2,7 @@
 # Define 
 
 ## Journey Map
-<img src="assets/profiles/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800"> 
+<img src="assets/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800"> 
 #ExtremeUser 
 
 ---- 
