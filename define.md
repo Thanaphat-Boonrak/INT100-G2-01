@@ -2,7 +2,7 @@
 # Define 
 
 ## Journey Map
-<img src="assets/profiles/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800"> 
+<img src="assets/define/ExtremeUser.png" alt="JourneyExtremeUser" width="800"> 
 #ExtremeUser 
 
 ---- 
@@ -12,10 +12,10 @@
 - ##### We met
 > พี่หนุ่มนักว่ายน้ำกล้ามโตเจอปัญหาขณะวิ่งออกกำลังกาย
 - ##### We were surprised to
-> มีรถเข้ามาวิ่งในสถานที่ออกกำลังกาย
+> มีรถเข้ามาวิ่งในสถานที่ออกกำลังกายซึ่งอาจทำให้เกิดอันตรายกับคนที่ออกกำลังกายได้
 - ##### We wonder if this means
-> อาจเกิดการเฉี่ยวชนคนออกกำลังกายได้
+> รถยนต์วิ่งมาในทางของคนเดิน
 - ##### It would be game-changing to
 > ให้เปลี่ยนไปวิ่งในสนามวิ่งแทนการวิ่งรอบตึก
-> 
+
 ----
