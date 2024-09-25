@@ -6,7 +6,3 @@
 
 ![แบริเออร์น้ำ](assets/prototype/waterbarrier.jpg)
 
-----
-
-<img src="assets/prototype/pt1.jpg" width="200" alt="สถานที่จริง"> <img src="assets/prototype/pt2.jpg" width="200" alt="สถานที่จริง">
-
