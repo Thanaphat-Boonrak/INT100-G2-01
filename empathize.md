@@ -1,6 +1,6 @@
 **empathize** / [ define ](define.md) / [ ideate ](ideate.md) / [ prototype ](prototype.md) / [ test ](test.md)
 
-## empathize
+## Empathize
 
 ### Interview information (1)
 
