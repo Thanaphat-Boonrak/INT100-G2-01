@@ -1,6 +1,6 @@
 [ empathize ](empathize.md) / [ define ](define.md) / [ ideate ](ideate.md) / **prototype** / [ test ](test.md)
 
-## prototype
+## Prototype
 
 ![แบริเออร์น้ำ](assets/prototype/waterbarrier.jpg)
 
