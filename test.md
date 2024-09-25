@@ -3,7 +3,7 @@
 ## Test
  | หัวเรื่องแรก | หัวเรื่องที่สอง |
 | --------- | ---------- |
-|   <img src="assets/prototype/pt1.jpg" width="300" alt="สถานที่จริง">   ||||    <img src="assets/prototype/pt2.jpg" width="300" alt="สถานที่จริง">   |
+|   <img src="assets/prototype/pt1.jpg" width="500" alt="สถานที่จริง">   |    <img src="assets/prototype/pt2.jpg" width="500" alt="สถานที่จริง">   |
 
 
 
