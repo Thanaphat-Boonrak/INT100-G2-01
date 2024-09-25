@@ -23,6 +23,7 @@
 
 <img src="assets/profiles/Fuyu.JPG" width="200" alt="Fuyu.JPG">
 
+##
 ## ฟูยุ เป็นหนุ่ม introvert เป็นคนไม่ค่อยพูดและพูดไม่ค่อยเก่งแต่เก่งด้านประวัติศาสตร์และการเมือง
 
 ### Personal Information
