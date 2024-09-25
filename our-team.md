@@ -1,6 +1,7 @@
 # Introduce Group Members
 
 <img src="assets/profiles/aung.jpg" width="200" alt="AungPic.gif">
+
  อุ้งเป็นคนตัวเล็ก นิ่งๆเงียบๆ เป็นคนที่สุภาพอ้อนน้อมถ่อมตนสุดๆ แล้วก็ถ้าพูดอะไรตลกๆให้เพื่อนฟังเพื่อนก็มักจะหลุดขำออกมาเสมอ เป็นคนที่เฟรนลี่และเป็นมิตรเป็นอย่างมาก
  
 ### Personal Information
