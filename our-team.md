@@ -102,6 +102,7 @@
 
 ### Social Media
 - **Instagram:**[ demxru.dash](https://instagram.com/demxru.dashx?igsh=cjR$ZWYybW85Y2t3)
+- เดียวเป็นคนตลกๆ เป็นกันเองไม่ทำให้รู้สึกอึดอัด อยู่ด้วยแล้วสบายใจไม่เครียดตอนระหว่างทำงาน ทำให้งานออกมาดีมากขึ้น
 
 ### Interests
 - **Hobbies:** playgame,playsport
