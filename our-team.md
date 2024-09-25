@@ -1,10 +1,8 @@
 # Introduce Group Members
 
 <img src="assets/profiles/aung.jpg" width="200" alt="AungPic.gif">
-
-##
-## อุ้งเป็นคนตัวเล็ก นิ่งๆเงียบๆ เป็นคนที่สุภาพอ้อนน้อมถ่อมตนสุดๆ แล้วก็ถ้าพูดอะไรตลกๆให้เพื่อนฟังเพื่อนก็มักจะหลุดขำออกมาเสมอ เป็นคนที่เฟรนลี่และเป็นมิตรเป็นอย่างมาก
-
+ อุ้งเป็นคนตัวเล็ก นิ่งๆเงียบๆ เป็นคนที่สุภาพอ้อนน้อมถ่อมตนสุดๆ แล้วก็ถ้าพูดอะไรตลกๆให้เพื่อนฟังเพื่อนก็มักจะหลุดขำออกมาเสมอ เป็นคนที่เฟรนลี่และเป็นมิตรเป็นอย่างมาก
+ 
 ### Personal Information
 - **Name:** 🐢 Yuttapoom Haphanom 🐢
 - **ID:** 67130500109
@@ -22,6 +20,7 @@
 ---
 
 <img src="assets/profiles/Fuyu.JPG" width="200" alt="Fuyu.JPG">
+
 ### Personal Information
 - **Name:** 😀 Wongsaphat Chanwanna 😀
 - **ID:** 67130500111
@@ -41,7 +40,6 @@
 <img src="assets/profiles/Tang.jpg" width="200" alt="Tang.jpg">
 
 ### Personal Information
-
 - **Name:** 😀 Thanaphat Boonruck 😀
 - **ID:** 67130500085
 - **Birthday:** 09/08/2548
@@ -78,7 +76,6 @@
 <img src="assets/profiles/MokunPic.jpg" width="200" alt="Poonpipat Siri">
 
 ### Personal Information
-
 - **Name:** Poonpipat Siri 🐻
 - **ID:** 67130500105 🪪 
 - **Birthday:** 20/01/2549 🎂 
@@ -97,7 +94,6 @@
 <img src="assets/profiles/DeawPIC.jpg" width="200" alt="DEAW">
 
 ### Personal Information
-
 - **Name:** 🏸Jaturapat Pratumchat🏸
 - **ID:** 67130500067
 - **Birthday:** 11/02/2550
