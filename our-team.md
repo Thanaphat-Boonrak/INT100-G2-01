@@ -68,7 +68,7 @@
 ### Personal Information
 - **Name:** 🦋Thanawit Kunthon🦋
 - **ID:** 67130500087
-- **Birthday:** 07/01/2006
+- **Birthday:** 07/01/2549
 
 ### Social Media
 - **Instagram:**[ toeytoei_cserpent](https://instagram.com/toeytoei_cserpent)
