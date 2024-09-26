@@ -10,8 +10,8 @@
 - **ID:** 67130500109
 - **Birthday:** 24/09/2548
 
-### Social Media
-- **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom)
+### Social Media 
+- **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom) 
 
 ### Interests
 - **Hobbies:** ดูการ์ตูน, กินขนม
