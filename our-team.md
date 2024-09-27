@@ -10,12 +10,12 @@
 - **ID:** 67130500109
 - **Birthday:** 24/09/2548
 
-### Social Media
-- **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom)
+### Social Media 
+- **Instagram:**[ aung.haphanom](https://instagram.com/aung.haphanom) 
 
 ### Interests
 - **Hobbies:** ดูการ์ตูน, กินขนม
-- **Favorite Song:** ปล่อยน้ำใสนาน้อง
+- **Favorite Song:** [ปล่อยน้ำใสนาน้อง](https://youtu.be/ZxZfR0Vcg1w?feature=shared)
 - **Favorite Movie:** iron man 2008
 - **Favorite Foods:** เฉาก๊วย, เก๊กฮวย, ก๋วยเตี๋ยวต้มยำ
 
@@ -90,7 +90,7 @@
 ## โมกุน ดูเป็นคนเรียนเก่งเรียนรู้ไว ทำงานดี และมีเพื่อนเยอะ เป็นคนเข้าสังคมเก่ง เข้ากับเพื่อนๆง่าย พื้นฐานแน่น เก่งรอบด้าน 
 
 ### Personal Information
-- **Name:** Poonpipat Siri 🐻
+- **Name:** 🐻 Poonpipat Siri 🐻
 - **ID:** 67130500105 🪪 
 - **Birthday:** 20/01/2549 🎂 
 
@@ -99,7 +99,7 @@
 
 ### Interests
 - **Hobbies:** เล่นกับเพื่อน ⛹️
-- **Favorite Song:** Jeff Satur 📼 
+- **Favorite Song:** [ซ่อน(ไม่)หา - Jeff Satur](https://youtu.be/qguo-j5PxBE?feature=shared) 📼 
 - **Favorite Movie:** Harry Potter 🍿 
 - **Favorite Foods:** ไก่ทอด 🍗 
 
